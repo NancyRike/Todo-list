@@ -1,0 +1,46 @@
+* body{
+    margin: 0 auto;
+    width: 70%;
+    text-transform: capitalize;
+
+}
+header{
+    background-color: rgb(50, 120, 201);
+    color: white;
+    
+    
+}
+header > div{
+    padding: 1em;
+    
+}
+h1{
+    margin: 0;
+    text-align: center;  
+}
+#input{
+    width: 35em;
+    height: 2em;
+    font-size: 24px;
+    margin: 0px 5em;
+    text-align: center;
+    text-transform: capitalize;
+}
+.fa{
+   width: 1em;
+   height: 1em;
+   font-size: 30px; 
+}
+button{
+    margin-left: 45em;
+}
+li{
+    padding-top: 1em;
+   text-decoration: none;
+    border-bottom: 1px dotted grey;
+   
+}
+span{
+    font-size: 24px;
+
+}
